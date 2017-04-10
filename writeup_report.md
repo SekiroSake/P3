@@ -107,7 +107,7 @@ The final model architecture (model.py lines 50-68) consisted of a convolution n
 * Convolutional Layer 3: 5x5 with 48 depth and 2x2 max pooling
 * Convolutional Layer 4: 3x3 with 64 depth
 * Convolutional Layer 5: 3x3 with 64 depth
-* Dropout
+* Dropout Layers after ELU
 
 ![alt text][image9]
 
